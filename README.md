@@ -152,6 +152,14 @@ After completing this notebook, you will be able to:
 - ✅ Validate and check data types in your code
 - ✅ Apply best practices for working with Python data structures
 
+## 🤝 Contributing
+
+Feel free to suggest improvements or report issues. This is an educational resource meant to help learners understand Python data types thoroughly.
+
+## 📄 License
+
+This notebook is provided for educational purposes.
+
 ---
 
 **Happy Coding! 🐍✨**
