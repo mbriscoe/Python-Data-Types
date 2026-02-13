@@ -163,3 +163,18 @@ This notebook is provided for educational purposes.
 ---
 
 **Happy Coding! 🐍✨**
+
+---
+
+## 👨‍🏫 Created By
+
+<div align="center">
+
+![Code Institute Logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
+**Mark Briscoe**  
+Code Institute
+
+📧 [mark.briscoe@codeinstitute.net](mailto:mark.briscoe@codeinstitute.net)
+
+</div>
